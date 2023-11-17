@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The poster "Enhancing Transcription Factor Prediction Through Multi-Task Learning (Student Abstract)" has been selected for a 3-minute oral presentation at AAAI-24! :smile:
+
