@@ -5,5 +5,5 @@ description: a wavefront restoration system based on generative adversarial netw
 img: assets/img/wave.png
 importance: 4
 category: work
-giscus_comments: true
 ---
+will update soon...

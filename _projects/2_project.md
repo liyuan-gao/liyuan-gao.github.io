@@ -5,7 +5,6 @@ description: explain word embeddings via automatic rule learning in text classif
 img: assets/img/word.png
 importance: 2
 category: work
-giscus_comments: true
 related_publications: gao2023word
 ---
 
