@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper "Explainable Transcription Factor Prediction with Protein Language Models" has been accepted at 2023 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023) :smile:
+The paper "Explainable Transcription Factor Prediction with Protein Language Models" has been accepted at 2023 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2023)! :smile:
