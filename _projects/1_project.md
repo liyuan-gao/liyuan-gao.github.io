@@ -9,7 +9,7 @@ related_publications: gao2023explainable
 ---
 In this study, we propose an ESM-TFpredict model, which leverages a pre-trained protein language model to encode amino acid sequences, followed by 1-D convolutional neural networks for transcription factor prediction.
 
-<div class="row justify-content-sm-center">
+<div class="d-flex justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ESM-TFpredict.png" title="ESM-TFpredict model architecture" class="img-fluid rounded z-depth-1" %}
     </div>

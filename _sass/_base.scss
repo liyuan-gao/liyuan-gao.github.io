@@ -593,9 +593,13 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+      margin-left: auto; // Add this line
+      margin-right: auto; // Add this line
     }
   }
-
+  .card-title {
+      text-transform: none; // Add this line
+      }
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -620,6 +624,7 @@ footer.sticky-bottom {
     margin-bottom: 1rem;
     text-align: right;
   }
+
 }
 
 
