@@ -1,6 +1,6 @@
 ---
 layout: page
-title: word embedding explanation
+title: word embedding
 description: explain word embeddings via automatic rule learning in text classification
 img: assets/img/word.png
 importance: 2
